@@ -15,7 +15,8 @@ The lab consists of:
   
 This segmentation improves security, isolates traffic, and simulates small enterprise network practices.
 
-<img width="649" height="711" alt="HomeLab Diagram" src="https://github.com/user-attachments/assets/b4f0ca3c-9d3d-4d10-b1fc-cfd41e6fd729" />
+<img width="647" height="710" alt="HomeLabDiagram" src="https://github.com/user-attachments/assets/29a00a17-ef01-41ea-b903-078a9a6a6075" />
+
 
 
 ## Core Infrastructure ##

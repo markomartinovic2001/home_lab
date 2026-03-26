@@ -10,7 +10,7 @@ The lab consists of:
 - **L2 Switch** – Connecting all devices, with VLAN-based segmentation:
   - VLAN 10 – Personal PC
   - VLAN 20 – Laptop
-  - VLAN 30 – ProxMox Server
+  - VLAN 30 – ProxMox Node
   - VLAN 40 – IoT devices
   
 This segmentation improves security, isolates traffic, and simulates small enterprise network practices.
